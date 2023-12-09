@@ -1,7 +1,7 @@
 # WinLux: Fusion
 
 ## Superstructure
-A solid foundation and framework must be built before anything can be installed. Follow the instructions on the [Superstructure](superstructure.md) before you begin anything else.
+A solid foundation and framework must be built before anything can be installed. Follow all the instructions in the [Start File](../FIRST.md), before you begin anything here.
 
 # Linux [port] Applications
 Below is the list of applications that I've been able to get to work within Windows (95 thru 11 and Server 2k thru 2k16) and, more importantly, my framework. If any particular tool requires another tool to work, the instructions will let you know and point you to that prerequisite.
@@ -107,8 +107,7 @@ FOr information on other PHP extensions, see their respective CONF files located
 
 ## Command Line Tools
 
-- [Linux Tools](./Fusion/cmd_tools.md) - Nearly 200 Command Line Tools
-
+- [Linux Tools](./assets/cmd_tools.zip) - Nearly 200 Command Line Tools. Unpack this file onto your "L" drive.
 
 <hr>
 
