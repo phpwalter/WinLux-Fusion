@@ -1,0 +1,117 @@
+# WinLux: Fusion
+
+## Superstructure
+A solid foundation and framework must be built before anything can be installed. Follow the instructions on the [Superstructure](superstructure.md) before you begin anything else.
+
+# Linux [port] Applications
+Below is the list of applications that I've been able to get to work within Windows (95 thru 11 and Server 2k thru 2k16) and, more importantly, my framework. If any particular tool requires another tool to work, the instructions will let you know and point you to that prerequisite.
+
+<hr>
+
+## Apache
+
+### Basic Installation
+- Apache Installation - <i>planned</i>
+
+### Additional Configuration Procedures
+- Virtual Hosts - <i>planned</i>
+- Userdir - <i>planned</i>
+- Proxy - <i>planned</i>
+- MOD Rewrite - <i>planned</i>
+- SSL - <i>planned</i>
+- DAV - <i>planned</i>
+
+<hr>
+
+## PHP
+
+### Basic Installation
+- PHP Installation and configuration with Apache - <i>planned</i>
+
+### Additional Configuration Procedures
+- PEAR - <i>planned</i>
+- APC - <i>planned</i>
+- GET_TEXT - GNUs Internationalization tool - <i>planned</i>
+- GD - <i>planned</i>
+- MEMCACE- <i>planned</i>
+- XDEBUG- <i>planned</i>
+
+FOr information on other PHP extensions, see their respective CONF files located in "/etc/php/conf" directory.
+
+
+## Composer Installation
+- Composer  - <i>planned</i>
+
+<hr>
+
+## Perl
+
+### Basic Installation
+- Perl - <i>planned</i>
+
+### Additional Configuration Procedures
+- <i>planned</i>
+
+<hr>
+
+## Python
+
+### Basic Installation
+- Python - <i>planned</i>
+
+<hr>
+
+## Database
+
+### mySQL
+#### Basic Installation
+- mySQL - <i>planned</i>
+
+#### Additional Configuration Procedures
+- TBD
+
+### couchDB
+#### Basic Installation
+- couchDB - <i>planned</i>
+
+#### Additional Configuration Procedures
+- TBD
+
+
+<hr>
+
+## Source Control
+
+### Basic Installation
+- GIT Installation (with SSH keys) - <i>planned</i>
+
+
+<hr>
+
+## eMail
+- planned
+
+
+<hr>
+
+## Security: SSL and SSH
+- Open SSL
+- Signed Certificates - <i>planned</i>
+- SSH2 - <i>planned</i>
+- SSH Keys - <i>planned</i>
+- Putty - <i>planned</i>
+- GPG Encryption and keys - <i>planned</i>
+
+
+<hr>
+
+## Command Line Tools
+
+- [Linux Tools](./Fusion/cmd_tools.md) - Nearly 200 Command Line Tools
+
+
+<hr>
+
+## Other Miscellaneous Tools
+- ps2pdf - convert Postscript files to PDF
+- rsync - Yes! rsync! with SSH!
