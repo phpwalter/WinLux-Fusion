@@ -23,11 +23,10 @@ The WindLux Fusion project aims to provide detailed instructions and guidelines 
 
 ### Installation Steps
 1. **Clone or Download**: Obtain the project files either by cloning this repository or downloading the ZIP file.
-2. **Navigate to 'Instructions'**: Open the 'Instructions' folder to access the detailed setup guide.
-3. **Follow Step-by-Step**: Open the instructions document and meticulously follow each step provided.
-4. **Execute Commands**: Execute commands in PowerShell or Command Prompt as directed in the guide.
-5. **Validation and Testing**: Validate the configurations and test the setup for successful operation.
-6. **Feedback and Contributions**: Feel free to provide feedback or contribute to improve this resource.
+2. **Navigate to ['FIRST.md](./FIRST.md)'**: Open this file for the the detailed setup guide.
+3. **Execute Commands**: Execute commands in PowerShell or Command Prompt as directed in the guide.
+4. **Validation and Testing**: Validate the configurations and test the setup for successful operation.
+5. **Feedback and Contributions**: Feel free to provide feedback or contribute to improve this resource.
 
 ## Contributions and Feedback
 
