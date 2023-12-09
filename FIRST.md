@@ -4,7 +4,7 @@
 
 There are 4 steps to this process:
 1. Create a secondary partition (I will leave that as an exercise for the reader!) or install a secondary drive
-2. Add the [Enviornmental Variables](./Fusion/assets/superstructure.zip) to make the magic work.
+2. Add the [Environmental Variables](./Fusion/env_vars.md) to make the magic work.
 3. Download the [superstructure ZIP file](./Fusion/assets/superstructure.zip) to give you an "instant framework".
 4. Download the [CMD Tools](./Fusion/assets/cmd_tools.zip) to give you an "instant toolset".
 
