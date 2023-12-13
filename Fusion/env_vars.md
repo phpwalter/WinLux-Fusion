@@ -7,14 +7,14 @@ Notice that some definitions have a trailing slash '\' and others do not. This i
 
 ### Apache
 - Name: Apache
-- Apache: %etc%\Apache2\bin\
+- Value: %etc%\Apache24\bin\
 
 ### Composer
 - Name: COMPOSER_HOME
 - Value: %etc%\composer
 
 ### GIT
-- Name: git
+- Name: GIT
 - Value: %etc%\git\bin
 
 ### MySQL
@@ -31,7 +31,7 @@ Notice that some definitions have a trailing slash '\' and others do not. This i
 
 ### PHPRC
 - Name: PHPRC
-- Value: {php}
+- Value: %php%
 
 ### NPM
 - Name: npm
@@ -39,6 +39,7 @@ Notice that some definitions have a trailing slash '\' and others do not. This i
 
 
 ### SSH2
+- Name: SSH2
 - Value: %etc%\ssh2
 
 
