@@ -1,3 +1,3 @@
-# The How and Who of Customized Apache CONF files
+# The How and Why of Customized Apache CONF files
 
 *coming soon*

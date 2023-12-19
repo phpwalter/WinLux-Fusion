@@ -5,7 +5,7 @@ A solid foundation and framework must be built before anything can be installed.
 
 ## Setup
 
-> This document is valid as of Apache v2.2.4 ==
+> This document is valid as of Apache v2.2.4
 
 ### But First!
 
@@ -72,7 +72,7 @@ If this failed, something went wrong with your file/directory layout. Simply wip
 Control C (a few times) and ENTER to exit Apache.
 
 
-###Last Items
+### Last Items
 
 The last item of business for Apache is whether to run this as a SERVICE [*a Windows version of a daemon*], which will be "always on" or do you want to turn the web server on when you want to.
 
@@ -97,18 +97,18 @@ This will install Apache as a Windows Service with the name ''**Apache**''. Each
 
 ### The Apache Monitor
 
-Within the Apache/bin directory, there is a small app called ''**ApacheMonitor.exe**''. Create a shortcut to this file and drop in the STARTUP folder of the START menu.
+Within the `Apache24/bin` directory, there is a small app called ''**ApacheMonitor.exe**''. Create a shortcut to this file and drop in the STARTUP folder of the START menu.
 
-> Press the Windows logo key + R, type shell:startup, then select OK. This opens the Startup folder. Copy and paste the shortcut here.
+> Press the Windows logo key + R, type **shell:startup**, then select OK. This opens the Startup folder. Copy / paste the shortcut here.
 
 Now each time you log in, this monitor will launch and display itself in the task bar next to the clock. I use this tool to stop and start Apache whenever I need to change a conf file, or it hangs for some reason.
 
-<note>This only works on the local PC on which Apache is installed.</note>
+> This only works on the local PC on which Apache is installed.
 
 ## Optional Configuration Procedures
 
 This page was just a basic Apache setup, just to get it running.  These other pages walk you through the various "advanced" features of Apache.
 
-We suggest that you get Virtual Hosts working next. It really does help with overall development. We've found that placing **phpMyadmin** (for example) as its own Virtual Hosted Name makes getting to it a lot easier. Using Virtual Hosts also keeps projects separate and easier to work with.
+We suggest that you get Virtual Hosts working next. It really does help with overall development. We've found that placing **phpMyadmin** (for example) as its own Virtual Hosted Name makes getting to it a lot easier. Using Virtual Hosts also keeps projects separate and simplier to work with.
 
 [Configuration Procedures](./optional.md)

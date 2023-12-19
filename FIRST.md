@@ -2,7 +2,7 @@
 
 Before we begin, please understand that this process will NOT work with any of the "main stream" environments like WAMP or XAMP. They encapsulate the process to "help you", to shield you.
 
-This process will not "protect" you from anything. It will guide you and teach you how things work so you are better armed to handle issues that may arise an update your environment as you need to.
+This process will not "protect" you from anything. It will guide you and teach you how things work so you are better armed to handle issues that may arise or update your environment when you need.
 
 For example: We have a method to be able to easily switch between several versions of PHP without rebooting the machine or complicated configurations. In fact, there is a section on how to configure PHPstorm to use any one of several versions of PHP on a project by project basis.  
 

@@ -1,9 +1,24 @@
 # WindLux Fusion
 Configuring Windows to be 90% of Linux-like Development Environment with 100% compatibility.
 
+## But... why!?
+
+I began working in internet based technologies in the late '90s, amidst the era of Windows '95—an epoch long past, yet pivotal in shaping my trajectory.
+
+It was during this juncture that the mandate to navigate Unix, particularly SunOS, arose, beckoning my involvement in crafting Perl scripts for our fledgling Internet Service Provider (ISP). This marked the genesis of an enduring odyssey spanning decades—a relentless pursuit aimed at seamlessly assimilating into the realm of Unix, now predominantly recognized as Linux, while upholding the sanctity of my coding ethos.
+
+At the crux of my quest lay an unwavering commitment: to meticulously mirror the subtleties of my target system within the fabric of my development environment. Despite the prevailing convention of endowing developers with Windows machines—a reality perpetuated by the companies I served—I harbored an unyielding resolve to synchronize my developmental sphere as closely as conceivable with the Linux ethos.
+
+I have meticulously honed my mastery across an eclectic repertoire of scripting languages—Perl, PHP, Ruby, etc —cultivating a proficiency that proudly attests to a 99% compatibility rate. This heralds the assurance of seamless code execution, sans the burdensome weight of substantial alterations.
+
+Thus, I proffer my solution—an immutable creed echoing through the annals of software development: the uncompromising dictum decreeing that the development ecosystem mirrors, with exacting precision, the very essence of the production environment it aspires to emulate. This axiom is not merely a guiding principle but an immutable cornerstone upon which robust, scalable, and unwaveringly reliable software architectures are forged.
+
+Anything less is just amateurish.
+
+
 ## Overview
 
-The WindLux Fusion project aims to provide detailed instructions and guidelines for configuring a Windows computer, from Windows 95 to Windows 11, to closely resemble a Linux environment suitable for LAMP (Linux, Apache, MySQL, PHP) development. This comprehensive guide ensures a 90% Linux-like structure within the Windows 11 environment, enabling developers to harness the power of LAMP seamlessly.
+The WindLux Fusion project aims to provide detailed instructions and guidelines for configuring a Windows computer, from Windows 95 to Windows 11, to closely resemble a Linux environment suitable for LAMP (Linux, Apache, MySQL, PHP) development. This comprehensive guide ensures a 90% Linux-like structure within the Windows 11 environment, enabling developers to harness the power of LAMP development seamlessly.
 
 ## Features
 

@@ -1,13 +1,22 @@
 # Optional Apache Configurations
 
-This0 is an ever growing list of optional configurations for Apache. 
+This is an ever-growing list of optional configurations for Apache. 
 
 If you have a setup to add to this list, please, be my guest!
 
 ### Additional Configuration Procedures
-- Virtual Hosts - <i>planned</i>
-- Userdir - <i>planned</i>
-- Proxy - <i>planned</i>
-- MOD Rewrite - <i>planned</i>
-- SSL - <i>planned</i>
-- DAV - <i>planned</i>
+- [Virtual Hosts](./mods/vhost.md)
+- SSL - <i>coming soon</i>
+- Userdir - <i>coming soon</i>
+
+## My Pipe Dream
+
+I would like to document each and every MOD that Apache has, its configuration and how it works.
+
+If you've made a particular MOD run, and it's not here, please make a branch (name it the MOD your adding) and submit your addition.
+
+### Apache MODs
+
+- Proxy
+- MOD Rewrite
+- DAV
