@@ -46,7 +46,7 @@ Open `L:/etc/php-8.3` and create a new directory labeled '**conf**'.
 
 I have reworked some of the .ini file that come with PHP. In my view, it is  now a bit more logically organized and a bit easier to manage.
 
-Download our customized version of the [PHP INI files](../assets/conf.zip), it will make your life a **LOT** easier. The complete details on "How and Why" of the customized PHP INI files can be [read here.](./ini.md)
+Download our customized version of the [PHP INI files](../assets/php_ini_conf.zip), it will make your life a **LOT** easier. The complete details on "How and Why" of the customized PHP INI files can be [read here.](./ini.md)
 
 ### Testing, 1, 2, 3, Testing
 
