@@ -6,8 +6,9 @@ If you have a setup to add to this list, please, be my guest!
 
 ### Additional Configuration Procedures
 - [Virtual Hosts](./mods/vhost.md)
-- SSL - <i>coming soon</i>
-- Userdir - <i>coming soon</i>
+- MOD Rewrite - <i>planned</i>
+- SSL - <i>planned</i>
+
 
 ## My Pipe Dream
 
@@ -17,6 +18,6 @@ If you've made a particular MOD run, and it's not here, please make a branch (na
 
 ### Apache MODs
 
-- Proxy
-- MOD Rewrite
-- DAV
+- Userdir - <i>planned</i>
+- Proxy - <i>planned</i>
+- DAV - <i>planned</i>
