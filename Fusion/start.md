@@ -4,7 +4,7 @@
 A solid foundation and framework must be built before anything can be installed. Follow all the instructions in the [Start File](../FIRST.md), before you begin anything here.
 
 # Linux [port] Applications
-Below is the list of applications that I've been able to get to work within Windows (95 thru 11 and Server 2k thru 2k16) and, more importantly, my framework. If any particular tool requires another tool to work, the instructions will let you know and point you to that prerequisite.
+Below is the list of applications that I've been able to get to work within Windows (95 through 11 and Server 2k through 2k16) and, more importantly, my framework. If any particular tool requires another tool to work, the instructions will let you know and point you to that prerequisite.
 
 <hr>
 
@@ -35,9 +35,10 @@ Below is the list of applications that I've been able to get to work within Wind
 ## PHP
 
 ### Basic Installation
-- PHP Installation and configuration with Apache - <i>planned</i>
+- [PHP Installation](./PHP/php.md) and configuration with Apache - <i>planned</i>
 
 ### Additional Configuration Procedures
+- [Apache Integration](./PHP/ext/apache.md)
 - XDEBUG- <i>planned</i>
 - GET_TEXT - GNUs Internationalization tool - <i>planned</i>
 - APC - <i>planned</i>
@@ -45,7 +46,7 @@ Below is the list of applications that I've been able to get to work within Wind
 - MEMCACHE- <i>planned</i>
 - PEAR - <i>planned</i>
 
-FOr information on other PHP extensions, see their respective CONF files located in "/etc/php/conf" directory.
+For information on other PHP extensions, see their respective CONF files located in "/etc/php/conf" directory.
 
 
 ## Composer Installation
