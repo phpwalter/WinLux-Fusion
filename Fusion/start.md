@@ -13,11 +13,11 @@ Below is the list of applications that I've been able to get to work within Wind
 - [Apache Installation](./Apache/apache.md)
 
 ### Additional Configuration Procedures
-- Virtual Hosts - <i>planned</i>
-- Userdir - <i>planned</i>
-- Proxy - <i>planned</i>
+- [Virtual Hosts](./Apache/mods/vhost.md)
 - MOD Rewrite - <i>planned</i>
+- Userdir - <i>planned</i>
 - SSL - <i>planned</i>
+- Proxy - <i>planned</i>
 - DAV - <i>planned</i>
 
 
@@ -38,12 +38,12 @@ Below is the list of applications that I've been able to get to work within Wind
 - PHP Installation and configuration with Apache - <i>planned</i>
 
 ### Additional Configuration Procedures
-- PEAR - <i>planned</i>
-- APC - <i>planned</i>
-- GET_TEXT - GNUs Internationalization tool - <i>planned</i>
-- GD - <i>planned</i>
-- MEMCACE- <i>planned</i>
 - XDEBUG- <i>planned</i>
+- GET_TEXT - GNUs Internationalization tool - <i>planned</i>
+- APC - <i>planned</i>
+- GD - <i>planned</i>
+- MEMCACHE- <i>planned</i>
+- PEAR - <i>planned</i>
 
 FOr information on other PHP extensions, see their respective CONF files located in "/etc/php/conf" directory.
 
@@ -104,7 +104,7 @@ FOr information on other PHP extensions, see their respective CONF files located
 <hr>
 
 ## Security: SSL and SSH
-- Open SSL
+- Open SSL - <i>planned</i>
 - Signed Certificates - <i>planned</i>
 - SSH2 - <i>planned</i>
 - SSH Keys - <i>planned</i>
