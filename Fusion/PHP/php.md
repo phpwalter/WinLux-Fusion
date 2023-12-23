@@ -27,7 +27,7 @@ Add these Windows Environmental Variables to your System:
 
 ### Download the Package
 
-Download the curretn version PHP [ZIP package.]https://windows.php.net/downloads/qa/)
+Download the current version PHP [ZIP package.]https://windows.php.net/downloads/qa/)
 
 Select the chip of your PC (x32 or x64 ) and the current version of PHP.
 
