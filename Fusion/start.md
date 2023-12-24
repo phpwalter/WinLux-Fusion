@@ -14,11 +14,9 @@ Below is the list of applications that I've been able to get to work within Wind
 
 ### Additional Configuration Procedures
 - [Virtual Hosts](./Apache/mods/vhost.md)
-- MOD Rewrite - <i>planned</i>
-- Userdir - <i>planned</i>
+- [MOD Rewrite](./Apache/mods/mod.rewrite.md)
 - SSL - <i>planned</i>
-- Proxy - <i>planned</i>
-- DAV - <i>planned</i>
+- Userdir - <i>planned</i>
 
 
 ## IIS
@@ -39,7 +37,7 @@ Below is the list of applications that I've been able to get to work within Wind
 
 ### Additional Configuration Procedures
 - [Apache Integration](./PHP/ext/apache.md)
-- XDEBUG- <i>planned</i>
+- [XDEBUG](./PHP/ext/xdebug.md)
 - GET_TEXT - GNUs Internationalization tool - <i>planned</i>
 - APC - <i>planned</i>
 - GD - <i>planned</i>
