@@ -2,15 +2,15 @@
 
 This guide offers an in-depth approach to skillfully handle multiple PHP versions within an Apache server setup on Windows. By following these step-by-step instructions, you'll seamlessly switch between diverse PHP versions, empowering you to navigate various code bases effortlessly.
 
-#### Introduction
+## Introduction
 
 Handling distinct PHP code bases across different versions can pose challenges. However, implementing a structured method to manage multiple PHP installations can streamline your workflow. This comprehensive guide provides meticulous instructions to streamline this process on your Windows system, ensuring an adaptable and flexible development environment.
 
-#### Prerequisites
+## Prerequisites
 
 Before initiating the setup process, ensure you've downloaded and installed the necessary PHP versions on your system. Follow the standard installation guidelines as provided [here](./php.md#Installation).
 
-#### Step 1: Organize PHP Versions
+## Step 1: Organize PHP Versions
 
 - **Create Version-Specific Directories:** Start by meticulously organizing your PHP versions into dedicated directories, explicitly labeling each directory with its version number.
  - Establish folders such as `php-7.4.0`, `php-8.0.15`, `php-8.3.1`, etc., within the designated directory path (e.g., `L:\etc\php\`).
