@@ -7,7 +7,7 @@ If you have a setup to add to this list, please, be my guest!
 ### Additional Configuration Procedures
 - [Virtual Hosts](./mods/vhost.md)
 - [MOD Rewrite](./mods/mod.rewrite.md)
-- SSL - <i>planned</i>
+- [SSL](./mods/ssl.md)
 - Userdir - <i>planned</i>
 
 ## My Pipe Dream
