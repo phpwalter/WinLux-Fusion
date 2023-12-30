@@ -13,10 +13,17 @@ OpenSSL, an open-source tool, is a robust cryptographic library widely used to s
 - Verify your installation with this command prompt
   - Open Command Window
   - Enter: `openssl version`
-  - It should respond with:
+  - It should respond with (or something similar):
 ```shell
 OpenSSL 3.1.3 19 Sep 2023 (Library: OpenSSL 3.1.3 19 Sep 2023)
 ```
 
+## Certificates
 
 
+
+
+Always create a new Random Number generated "seed" file for every key created
+```shell
+openssl rand -out RND 4096
+```

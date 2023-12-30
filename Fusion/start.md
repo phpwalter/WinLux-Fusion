@@ -15,7 +15,7 @@ Below is the list of applications that I've been able to get to work within Wind
 ### Additional Configuration Procedures
 - [Virtual Hosts](./Apache/mods/vhost.md)
 - [MOD Rewrite](./Apache/mods/mod.rewrite.md)
-- SSL - <i>planned</i>
+- [SSL](./Apache/mods/ssl.md)
 - Userdir - <i>planned</i>
 
 
@@ -103,8 +103,8 @@ For information on other PHP extensions, see their respective CONF files located
 <hr>
 
 ## Security: SSL and SSH
-- Open SSL - <i>planned</i>
-- Signed Certificates - <i>planned</i>
+- [Open SSL](./OpenSSL/openssl.md)
+- [Signed Certificates](./Apache/mods/ssl.md)
 - SSH2 - <i>planned</i>
 - SSH Keys - <i>planned</i>
 - Putty - <i>planned</i>
