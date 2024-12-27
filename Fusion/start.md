@@ -103,7 +103,7 @@ For information on other PHP extensions, see their respective CONF files located
 <hr>
 
 ## Security: SSL and SSH
-- Open SSL - <i>planned</i>
+- [Open SSL](./OpenSSL/openssl.md)
 - Signed Certificates - <i>planned</i>
 - SSH2 - <i>planned</i>
 - SSH Keys - <i>planned</i>
