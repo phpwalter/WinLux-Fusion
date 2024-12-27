@@ -1,8 +1,8 @@
 # PHP INI Customization
 
-The standard PHP `ini` file is a large collection of settings that allows PHP to be customized and optimized to fit just about any situation.
+The standard PHP `ini` file contains a large collection of settings that allow PHP to be customized and optimized for almost any situation.
 
-I found that it being such a large file hampered my ability to full understand the options PHP offered.
+I found that it being such a large file hampered my ability to fully understand the options PHP offered.
 
 This collection of `ini` files is the various pats of the original file split into its logical, defined, sections. 
 
@@ -10,9 +10,9 @@ The EXTENSIONS definitions have also been pulled out into their separate ini fil
 
 If this is of interest:
 1. rename your local copy of `php.ini` to `php.ini.org`
-2. pull this [ZIP file](../assets/php_ini_conf.zip) containing the seperated segments
-3. unpack the ZIP file ant place the new `php.ini` and the `conf` directory into your `php` main directory.
-4. create a new ENVIRONMENTAL VARIABLE and label it `PHP_INI_SCAN_DIR` and define its value as the path to your PHP directory; `%php%`.
+2. pull this [ZIP file](../assets/php_ini_conf.zip) containing the separated segments
+3. unpack the ZIP file and place the new `php.ini` and the `conf` directory into your `php` main directory.
+5. create a new ENVIRONMENTAL VARIABLE and label it `PHP_INI_SCAN_DIR` and define its value as the path to your PHP directory; `%php%`.
 
 To test if this works as planned:
 - open a command window
