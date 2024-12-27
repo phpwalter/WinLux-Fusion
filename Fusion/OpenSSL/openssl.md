@@ -8,7 +8,7 @@ OpenSSL, an open-source tool, is a robust cryptographic library widely used to s
 - Decompress package into `L:\etc\openssl`
 - Add new ENVIRONMENTAL VARIABLE
   - Name: openssl
-  - Value: `%etc%\openssl`
+  - Value: `%etc%\openssl\bin`
 - Add `%openssl%` to PATH
 - Verify your installation with this command prompt
   - Open Command Window
